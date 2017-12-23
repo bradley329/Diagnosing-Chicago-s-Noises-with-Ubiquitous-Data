@@ -1,0 +1,1 @@
+hdfs dfs -cat /user/lg2681/poi_clean/output/part-r-00000
